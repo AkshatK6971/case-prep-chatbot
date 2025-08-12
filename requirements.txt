@@ -1,0 +1,12 @@
+langchain
+langchain_community
+langchain_core
+langchain_groq
+langchain_huggingface
+langgraph
+numpy
+python-dotenv
+qdrant_client
+streamlit
+typing_extensions
+sentence-transformers
